@@ -4,8 +4,6 @@
 
 -  El objetivo del proyecto es aprender a usar Zdog.js para crear una aplicación web. y aprender a crear diseños visuales.
 
-El diseño web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
-
 ## Tecnologias usadas
 
 - Ide
